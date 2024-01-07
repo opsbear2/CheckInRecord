@@ -166,3 +166,23 @@ mysql> select * from offline_work_record;
 ![image-20240107161409316](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20240107161409316.png)
 
 
+### 查询报销记录
+
+```shell
+# 使用方法
+# python3 get_reimbursement_date.py 
+Usage: get_reimbursement_date.py [username] [year] [month] [type]
+Arguments:
+  username   The username for the query
+  year       The year for the query
+  month      The month for the query
+  type       The type for the query (meal or transport)
+  
+# 查询bear在2024年1月满足餐补报销的日期
+# python3 get_reimbursement_date.py bear2 2024 1 meal
+[bear2 2024-1 meal reimbursement]
+2024-01-03
+2024-01-04
+2024-01-05
+```
+
