@@ -137,7 +137,7 @@ mysql> select * from offline_work_record;
 
 ### 配置定时任务
 
-使用IOS系统自带的`快捷指令`和`自动化`功能，在每天20:00、21:00定时执行任务=
+使用IOS系统自带的`快捷指令`和`自动化`功能，在每天20:00、21:00定时执行任务
 
 根据地理位置判断结果，请求不同的url，例如，在20:00判断是否在公司
 
@@ -157,13 +157,13 @@ mysql> select * from offline_work_record;
 
 安装之后根据实际情况调整`位置列表`和`url`
 
-![image-20240108111519307](https://cdn.jsdelivr.net/gh/opsbear2/ImagesForBlog@master/default/2024-01-08/20240108-111519.png)
+![image-20240108111557473](https://cdn.jsdelivr.net/gh/opsbear2/ImagesForBlog@master/default/2024-01-08/20240108-111557.png)
 
 
 
 添加完成快捷指令后配置自动化，选择`立即运行`，去掉运行时通知，选择时间和对应的快捷指令
 
-![image-20240108111557473](https://cdn.jsdelivr.net/gh/opsbear2/ImagesForBlog@master/default/2024-01-08/20240108-111557.png)
+![image-20240108111519307](https://cdn.jsdelivr.net/gh/opsbear2/ImagesForBlog@master/default/2024-01-08/20240108-111519.png)
 
 
 ### 查询报销记录
