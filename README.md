@@ -157,13 +157,13 @@ mysql> select * from offline_work_record;
 
 安装之后根据实际情况调整`位置列表`和`url`
 
-![image-20240107162540634](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20240107162540634.png)
+![image-20240108111519307](https://cdn.jsdelivr.net/gh/opsbear2/ImagesForBlog@master/default/2024-01-08/20240108-111519.png)
 
 
 
 添加完成快捷指令后配置自动化，选择`立即运行`，去掉运行时通知，选择时间和对应的快捷指令
 
-![image-20240107161409316](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20240107161409316.png)
+![image-20240108111557473](https://cdn.jsdelivr.net/gh/opsbear2/ImagesForBlog@master/default/2024-01-08/20240108-111557.png)
 
 
 ### 查询报销记录
